@@ -1,0 +1,7 @@
+{
+  "name": "Daily Health & Glow",
+  "description": "A comprehensive daily tracker for diet, exercise, sleep, and skincare with AI-powered coaching and analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
